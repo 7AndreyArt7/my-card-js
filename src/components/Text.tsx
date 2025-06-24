@@ -5,7 +5,7 @@ const Text = styled.p`
     font-size: 12px;
     line-height: 1.66667;
     color: #abb3ba;
-    margin: 0 20px 20px 20px;
+    margin: 0 20px 20px 10px;
     text-align: start;
 `
 

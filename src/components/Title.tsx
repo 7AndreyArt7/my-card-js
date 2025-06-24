@@ -5,6 +5,6 @@ const Title = styled.h2`
     font-size: 16px;
     color: #000;
     margin-bottom: 20px;
-    margin-left: 20px;
+    margin-left: 10px;
 `
 export default Title;

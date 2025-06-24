@@ -47,7 +47,7 @@ const Card = styled.section`
 
 const BoxBtn = styled.div`
     display: flex;
-    margin-left: 20px;
+    margin-left: 10px;
     margin-bottom: 20px;
     button+button {
         margin-left: 12px;
